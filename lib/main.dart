@@ -14,14 +14,14 @@ void main() async {
   );
   await GoogleSignIn.instance.initialize(
 
-    clientId: '147207286648-vp1spp34cgq8l1o9rarthg5t4t7hbaqi.apps.googleusercontent.com',
+    clientId: '147207286648-m9ushsdknksc99ugtl65hvgf1o3gu85b.apps.googleusercontent.com',
 
   );
   if (kIsWeb) {
 
     await GoogleSignIn.instance.initialize(
 
-      clientId: '147207286648-vp1spp34cgq8l1o9rarthg5t4t7hbaqi.apps.googleusercontent.com',
+      clientId: '147207286648-m9ushsdknksc99ugtl65hvgf1o3gu85b.apps.googleusercontent.com',
 
 
 
